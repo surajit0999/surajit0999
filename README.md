@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there 👋,
 
-<!--
-**surajit0999/surajit0999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Electrical Engineer by profession who started his journey as a Tech writer at Tecroxy back in 2019. I am a Tech Enthusiast & Photographer.
 
-Here are some ideas to get you started:
+I create tech blog posts mainly about Website and Apps.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [Tecroxy](tecroxy.com).  If you found value in something I have created, please feel free to share it with your friends and give me some ♥ .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+ 
+### Tecroxy
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the explore.  I contribute to things as I come across issues that I think other people might struggle with.
+
+ ---
+
