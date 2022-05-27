@@ -43,5 +43,5 @@ I am a Tech Enthusiasts. I have a passion for learning and sharing my knowledge 
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/surajit-mandal-699a2423a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/surajit-mandal-699a2423a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
