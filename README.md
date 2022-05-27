@@ -27,9 +27,9 @@ I am a Tech Enthusiasts. I have a passion for learning and sharing my knowledge 
 <p>🌱 I'm currently learning Python Programming</p>
 <p>💬 Ask me about Fun Projects</p>
 <p>📫 How to reach me? contact@tecroxy.com</p>
-<p>I regularly write articles on <a href="https://tecroxy.com">Tecroxy</a></p>
-<p>All of my projects are available at <a href="https://github.com/surajit0999">@surajit0999</a></p>
-<p>Know about my experiences <a href="https://drive.google.com/file/d/1EQmyWWa4ennKgyRYFBFxIFRotGV6QHV5/view?usp=sharing">here</a></p>
+<p>📰 regularly write articles on <a href="https://tecroxy.com">Tecroxy</a></p>
+<p>🤖 All of my projects are available at <a href="https://github.com/surajit0999">@surajit0999</a></p>
+<p>😄 Know about my experiences <a href="https://drive.google.com/file/d/1EQmyWWa4ennKgyRYFBFxIFRotGV6QHV5/view?usp=sharing">here</a></p>
 <p>⚡ Fun Fact: I Love to watch Anime.</p>
 
 ## 💻 Skills
